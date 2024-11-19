@@ -1,7 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Figma Design Homepage Replica
 
-## Getting Started
+A replica of a Figma-designed homepage built with **Next.js**. This project demonstrates a responsive, interactive layout optimized for desktops, tablets, and mobile devices.
 
+## Features
+- Responsive layout for multiple screen sizes
+- Interactive design elements
+- Clean and modern design
+
+## Technologies Used
+- **Next.js** (React framework)
+- **HTML** & **CSS** (for layout and styling)
+- **JavaScript** (for interactive elements)
+- **React** (for component-based architecture)
 First, run the development server:
 
 ```bash
